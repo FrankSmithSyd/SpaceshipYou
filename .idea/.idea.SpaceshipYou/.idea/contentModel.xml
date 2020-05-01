@@ -12,8 +12,8 @@
         <e p="Calendar.csproj" t="IncludeRecursive" />
         <e p="Classes" t="Include">
           <e p="Activity.cs" t="Include" />
+          <e p="ActivityType.cs" t="Include" />
           <e p="DaySchedule.cs" t="Include" />
-          <e p="Stations.cs" t="Include" />
         </e>
         <e p="Logic" t="Include">
           <e p="SetupSchedule.cs" t="Include" />
