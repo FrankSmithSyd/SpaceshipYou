@@ -12,17 +12,20 @@ namespace Calendar.Classes
 
         public string Description { get; }
 
+        public ActivityType ActivityType { get; }
 
         public Activity(
             DateTime start,
             DateTime end,
             string name,
-            string description)
+            string description,
+            ActivityType activityType)
         {
             Start = start;
             End = end;
             Name = name;
             Description = description;
+            ActivityType = activityType;
         }
     }
 }

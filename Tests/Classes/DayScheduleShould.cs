@@ -11,7 +11,8 @@ namespace Tests
         public void HaveProperties()
         {
             var date = new DateTime(2020, 1, 1);
-            var daySchedule = new DaySchedule(date);
+            var description = "Day Schedule Description";
+            var daySchedule = new DaySchedule(date, description);
             
             Assert.Equal(date, daySchedule.Date);
         }
@@ -20,7 +21,8 @@ namespace Tests
         public void SetDayName_DuringConstruction()
         {
             var date = new DateTime(2020, 1, 1);
-            var daySchedule = new DaySchedule(date);
+            var description = "Day Schedule Description";
+            var daySchedule = new DaySchedule(date, description);
             
             Assert.Equal("Wednesday", daySchedule.DayName);
         }

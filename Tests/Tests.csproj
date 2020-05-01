@@ -16,4 +16,8 @@
       <ProjectReference Include="..\Calendar\Calendar.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Logic" />
+    </ItemGroup>
+
 </Project>

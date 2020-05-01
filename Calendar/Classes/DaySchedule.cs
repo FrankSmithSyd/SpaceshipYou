@@ -11,12 +11,13 @@ namespace Calendar.Classes
 
         public string DayName { get; set; }
 
-        private bool IsRestDay { get; set; }
+        public string Description { get; set; }
 
-        public DaySchedule(DateTime date)
+        public DaySchedule(DateTime date, string description)
         {
             Date = date;
             DayName = date.DayOfWeek.ToString();
+            Activities = new List<Activity>();
         }
     }
 }
