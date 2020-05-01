@@ -1,6 +1,6 @@
 using System;
 
-namespace Calendar
+namespace Calendar.Classes
 {
     public class Activity
     {
