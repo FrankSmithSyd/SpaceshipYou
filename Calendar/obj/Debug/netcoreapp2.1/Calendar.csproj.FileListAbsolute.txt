@@ -1,0 +1,11 @@
+F:\Repos\SpaceshipYou\Calendar\bin\Debug\netcoreapp2.1\Calendar.deps.json
+F:\Repos\SpaceshipYou\Calendar\bin\Debug\netcoreapp2.1\Calendar.runtimeconfig.json
+F:\Repos\SpaceshipYou\Calendar\bin\Debug\netcoreapp2.1\Calendar.runtimeconfig.dev.json
+F:\Repos\SpaceshipYou\Calendar\bin\Debug\netcoreapp2.1\Calendar.dll
+F:\Repos\SpaceshipYou\Calendar\bin\Debug\netcoreapp2.1\Calendar.pdb
+F:\Repos\SpaceshipYou\Calendar\obj\Debug\netcoreapp2.1\Calendar.csprojAssemblyReference.cache
+F:\Repos\SpaceshipYou\Calendar\obj\Debug\netcoreapp2.1\Calendar.csproj.CoreCompileInputs.cache
+F:\Repos\SpaceshipYou\Calendar\obj\Debug\netcoreapp2.1\Calendar.AssemblyInfoInputs.cache
+F:\Repos\SpaceshipYou\Calendar\obj\Debug\netcoreapp2.1\Calendar.AssemblyInfo.cs
+F:\Repos\SpaceshipYou\Calendar\obj\Debug\netcoreapp2.1\Calendar.dll
+F:\Repos\SpaceshipYou\Calendar\obj\Debug\netcoreapp2.1\Calendar.pdb
