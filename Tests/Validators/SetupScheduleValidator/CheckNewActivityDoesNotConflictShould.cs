@@ -16,7 +16,7 @@ namespace Tests.Validators
                     schedule.Date.AddHours(1),
                     "dance",
                     "do the dance",
-                ActivityType.Exercise);
+                    SetupActivityType());
             
             schedule.Activities.Add(existingActivity);
             
@@ -26,7 +26,7 @@ namespace Tests.Validators
                 schedule.Date.AddHours(3),
                 "fly",
                 "do the fly",
-                ActivityType.Exercise);
+                SetupActivityType());
             
             SetupScheduleValidator.CheckNewActivityDoesNotConflict(schedule, newActivity);
         }
@@ -40,7 +40,7 @@ namespace Tests.Validators
                 schedule.Date.AddHours(1),
                 "dance",
                 "do the dance",
-                ActivityType.Exercise);
+                SetupActivityType());
             
             schedule.Activities.Add(existingActivity);
             
@@ -50,7 +50,7 @@ namespace Tests.Validators
                 schedule.Date.AddHours(1),
                 "fly",
                 "do the fly",
-                ActivityType.Exercise);
+                SetupActivityType());
             
             Assert.Throws<ValidationException>(() => SetupScheduleValidator.CheckNewActivityDoesNotConflict(schedule, newActivity));
         }

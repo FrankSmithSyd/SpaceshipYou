@@ -14,5 +14,10 @@ namespace Tests.Validators
 
             return daySchedule;
         }
+
+        public ActivityType SetupActivityType()
+        {
+            return new ActivityType("Activity Type Name");
+        }
     }
 }

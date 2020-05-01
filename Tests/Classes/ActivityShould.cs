@@ -15,7 +15,7 @@ namespace Tests
             var end = new DateTime(2020, 1, 1, 11, 0, 0);
             var name = "ActivityName";
             var desc = "ActivityDescription";
-            var activityType = ActivityType.Recreation;
+            var activityType = new ActivityType("Bla");
             
             var activity = new Activity(start, end, name, desc, activityType);
 

@@ -1,10 +1,13 @@
 namespace Calendar.Classes
 {
-    public enum ActivityType
+    public class ActivityType
     {
-        Exercise,
-        Sleep,
-        Recreation,
-        Creation
+        private string Name { get; set; }
+
+
+        public ActivityType(string name)
+        {
+            Name = name;
+        }
     }
 }
