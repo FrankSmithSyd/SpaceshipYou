@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calendar", "Calendar\Calendar.csproj", "{F8CC12C9-2540-4D15-84CC-09DFF0E2D1C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{9471515C-DBE1-489A-B524-2A18744C0362}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{F8CC12C9-2540-4D15-84CC-09DFF0E2D1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8CC12C9-2540-4D15-84CC-09DFF0E2D1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8CC12C9-2540-4D15-84CC-09DFF0E2D1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9471515C-DBE1-489A-B524-2A18744C0362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9471515C-DBE1-489A-B524-2A18744C0362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9471515C-DBE1-489A-B524-2A18744C0362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9471515C-DBE1-489A-B524-2A18744C0362}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

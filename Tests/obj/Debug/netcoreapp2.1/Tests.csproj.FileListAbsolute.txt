@@ -1,0 +1,17 @@
+F:\Repos\SpaceshipYou\Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\Repos\SpaceshipYou\Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+F:\Repos\SpaceshipYou\Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+F:\Repos\SpaceshipYou\Tests\bin\Debug\netcoreapp2.1\Tests.deps.json
+F:\Repos\SpaceshipYou\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+F:\Repos\SpaceshipYou\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+F:\Repos\SpaceshipYou\Tests\bin\Debug\netcoreapp2.1\Tests.dll
+F:\Repos\SpaceshipYou\Tests\bin\Debug\netcoreapp2.1\Tests.pdb
+F:\Repos\SpaceshipYou\Tests\bin\Debug\netcoreapp2.1\Calendar.dll
+F:\Repos\SpaceshipYou\Tests\bin\Debug\netcoreapp2.1\Calendar.pdb
+F:\Repos\SpaceshipYou\Tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+F:\Repos\SpaceshipYou\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+F:\Repos\SpaceshipYou\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+F:\Repos\SpaceshipYou\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+F:\Repos\SpaceshipYou\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CopyComplete
+F:\Repos\SpaceshipYou\Tests\obj\Debug\netcoreapp2.1\Tests.dll
+F:\Repos\SpaceshipYou\Tests\obj\Debug\netcoreapp2.1\Tests.pdb
