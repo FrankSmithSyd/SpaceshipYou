@@ -9,3 +9,8 @@ F:\Repos\SpaceshipYou\Calendar\obj\Debug\netcoreapp2.1\Calendar.AssemblyInfoInpu
 F:\Repos\SpaceshipYou\Calendar\obj\Debug\netcoreapp2.1\Calendar.AssemblyInfo.cs
 F:\Repos\SpaceshipYou\Calendar\obj\Debug\netcoreapp2.1\Calendar.dll
 F:\Repos\SpaceshipYou\Calendar\obj\Debug\netcoreapp2.1\Calendar.pdb
+F:\Repos\SpaceshipYou\Calendar\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+F:\Repos\SpaceshipYou\Calendar\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Repos\SpaceshipYou\Calendar\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+F:\Repos\SpaceshipYou\Calendar\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.xml
+F:\Repos\SpaceshipYou\Calendar\obj\Debug\netcoreapp2.1\Calendar.csproj.CopyComplete

@@ -1,0 +1,12 @@
+F:\Repos\SpaceshipYou\Database\bin\Debug\netcoreapp2.1\Database.deps.json
+F:\Repos\SpaceshipYou\Database\bin\Debug\netcoreapp2.1\Database.dll
+F:\Repos\SpaceshipYou\Database\bin\Debug\netcoreapp2.1\Database.pdb
+F:\Repos\SpaceshipYou\Database\bin\Debug\netcoreapp2.1\Calendar.dll
+F:\Repos\SpaceshipYou\Database\bin\Debug\netcoreapp2.1\Calendar.pdb
+F:\Repos\SpaceshipYou\Database\obj\Debug\netcoreapp2.1\Database.csprojAssemblyReference.cache
+F:\Repos\SpaceshipYou\Database\obj\Debug\netcoreapp2.1\Database.csproj.CoreCompileInputs.cache
+F:\Repos\SpaceshipYou\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
+F:\Repos\SpaceshipYou\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
+F:\Repos\SpaceshipYou\Database\obj\Debug\netcoreapp2.1\Database.csproj.CopyComplete
+F:\Repos\SpaceshipYou\Database\obj\Debug\netcoreapp2.1\Database.dll
+F:\Repos\SpaceshipYou\Database\obj\Debug\netcoreapp2.1\Database.pdb
