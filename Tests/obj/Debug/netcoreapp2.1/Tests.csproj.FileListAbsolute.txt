@@ -15,3 +15,4 @@ F:\Repos\SpaceshipYou\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
 F:\Repos\SpaceshipYou\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CopyComplete
 F:\Repos\SpaceshipYou\Tests\obj\Debug\netcoreapp2.1\Tests.dll
 F:\Repos\SpaceshipYou\Tests\obj\Debug\netcoreapp2.1\Tests.pdb
+F:\Repos\SpaceshipYou\Tests\bin\Debug\netcoreapp2.1\Calendar.dll.config

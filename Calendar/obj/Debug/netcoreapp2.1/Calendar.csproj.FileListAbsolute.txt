@@ -14,3 +14,9 @@ F:\Repos\SpaceshipYou\Calendar\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Depe
 F:\Repos\SpaceshipYou\Calendar\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
 F:\Repos\SpaceshipYou\Calendar\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.xml
 F:\Repos\SpaceshipYou\Calendar\obj\Debug\netcoreapp2.1\Calendar.csproj.CopyComplete
+F:\Repos\SpaceshipYou\Calendar\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Repos\SpaceshipYou\Calendar\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Repos\SpaceshipYou\Calendar\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\Repos\SpaceshipYou\Calendar\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Repos\SpaceshipYou\Calendar\bin\Debug\netcoreapp2.1\Calendar.dll.config
+F:\Repos\SpaceshipYou\Calendar\obj\Debug\netcoreapp2.1\Calendar.dll.config

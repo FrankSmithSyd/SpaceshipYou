@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "F:\\Repos\\SpaceshipYou\\Database\\Database.csproj",
-    "projectName": "Database",
-    "projectPath": "F:\\Repos\\SpaceshipYou\\Database\\Database.csproj",
-    "outputPath": "F:\\Repos\\SpaceshipYou\\Database\\obj\\",
+    "projectUniqueName": "F:\\Repos\\SpaceshipYou\\WebApp\\WebApp.csproj",
+    "projectName": "WebApp",
+    "projectPath": "F:\\Repos\\SpaceshipYou\\WebApp\\WebApp.csproj",
+    "outputPath": "F:\\Repos\\SpaceshipYou\\WebApp\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14,11 +14,7 @@
     ],
     "frameworks": {
       "netcoreapp2.1": {
-        "projectReferences": {
-          "F:\\Repos\\SpaceshipYou\\Calendar\\Calendar.csproj": {
-            "projectPath": "F:\\Repos\\SpaceshipYou\\Calendar\\Calendar.csproj"
-          }
-        }
+        "projectReferences": {}
       }
     },
     "warningProperties": {
@@ -30,13 +26,16 @@
   "frameworks": {
     "netcoreapp2.1": {
       "dependencies": {
-        "Microsoft.AspNetCore": {
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
           "target": "Package",
-          "version": "[2.2.0, )"
+          "version": "[2.1.1, )",
+          "autoReferenced": true
         },
-        "Microsoft.EntityFrameworkCore.SqlServer": {
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
           "target": "Package",
-          "version": "[3.1.3, )"
+          "version": "[2.1.2, )"
         },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",

@@ -10,3 +10,4 @@ F:\Repos\SpaceshipYou\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
 F:\Repos\SpaceshipYou\Database\obj\Debug\netcoreapp2.1\Database.csproj.CopyComplete
 F:\Repos\SpaceshipYou\Database\obj\Debug\netcoreapp2.1\Database.dll
 F:\Repos\SpaceshipYou\Database\obj\Debug\netcoreapp2.1\Database.pdb
+F:\Repos\SpaceshipYou\Database\bin\Debug\netcoreapp2.1\Calendar.dll.config

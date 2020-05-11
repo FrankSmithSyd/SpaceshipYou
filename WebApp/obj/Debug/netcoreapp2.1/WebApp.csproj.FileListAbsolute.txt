@@ -1,0 +1,14 @@
+F:\Repos\SpaceshipYou\WebApp\bin\Debug\netcoreapp2.1\WebApp.deps.json
+F:\Repos\SpaceshipYou\WebApp\bin\Debug\netcoreapp2.1\WebApp.runtimeconfig.json
+F:\Repos\SpaceshipYou\WebApp\bin\Debug\netcoreapp2.1\WebApp.runtimeconfig.dev.json
+F:\Repos\SpaceshipYou\WebApp\bin\Debug\netcoreapp2.1\WebApp.dll
+F:\Repos\SpaceshipYou\WebApp\bin\Debug\netcoreapp2.1\WebApp.pdb
+F:\Repos\SpaceshipYou\WebApp\obj\Debug\netcoreapp2.1\WebApp.csprojAssemblyReference.cache
+F:\Repos\SpaceshipYou\WebApp\obj\Debug\netcoreapp2.1\WebApp.csproj.CoreCompileInputs.cache
+F:\Repos\SpaceshipYou\WebApp\obj\Debug\netcoreapp2.1\WebApp.RazorAssemblyInfo.cache
+F:\Repos\SpaceshipYou\WebApp\obj\Debug\netcoreapp2.1\WebApp.RazorAssemblyInfo.cs
+F:\Repos\SpaceshipYou\WebApp\obj\Debug\netcoreapp2.1\WebApp.AssemblyInfoInputs.cache
+F:\Repos\SpaceshipYou\WebApp\obj\Debug\netcoreapp2.1\WebApp.AssemblyInfo.cs
+F:\Repos\SpaceshipYou\WebApp\obj\Debug\netcoreapp2.1\WebApp.RazorTargetAssemblyInfo.cache
+F:\Repos\SpaceshipYou\WebApp\obj\Debug\netcoreapp2.1\WebApp.dll
+F:\Repos\SpaceshipYou\WebApp\obj\Debug\netcoreapp2.1\WebApp.pdb
